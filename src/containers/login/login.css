@@ -1,0 +1,63 @@
+.login-container {
+  background-color: #181818;
+  height: 100vh;
+  width: 100%;
+  position: fixed;
+}
+
+.login-container .logo {
+  max-width: 397px;
+  max-height: 163px;
+  margin-bottom: 5vh;
+}
+
+.login-container .login-logo-container {
+  padding-top: 2vh;
+  background-color: #080808;
+}
+
+.login-container .login-title-container {
+  background-color: #101010;
+}
+
+.login-container .login-title-container .login-title {
+  padding: 5vh;
+  color: #F0F0F0;
+}
+
+.login-container .login-form-content {
+  margin-top: 5vh;
+  background-color: #181818;
+  padding: 10px;
+}
+
+.login-container .login-form-content .login-form {
+  display: block;
+  margin: 0 auto;
+  max-width: 360px;
+}
+
+.login-container .login-form-content .login-form .ant-form-item {
+ margin-bottom: 10px !important;
+}
+
+.login-container .login-form-content .login-form .ant-form-item .login-input {
+  background-color : #080808;
+  color: grey;
+  height: 40px !important;
+  border: 0px;
+}
+
+.login-container .login-form-content .login-form .login-input:focus {
+  color: grey;
+}
+
+.login-container .login-form-content .login-form .login-button {
+  margin-top: 10px;
+  width: 100%;
+  border: 0;
+  height: 45px;
+  background-color: #3CB371;
+}
+
+

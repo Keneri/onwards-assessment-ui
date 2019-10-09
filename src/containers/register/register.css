@@ -1,0 +1,63 @@
+.register-container {
+  background-color: #181818;
+  height: 100vh;
+  width: 100%;
+  position: fixed;
+}
+
+.register-container .logo {
+  max-width: 397px;
+  max-height: 163px;
+  margin-bottom: 5vh;
+}
+
+.register-container .register-logo-container {
+  padding-top: 2vh;
+  background-color: #080808;
+}
+
+.register-container .register-title-container {
+  background-color: #101010;
+}
+
+.register-container .register-title-container .register-title {
+  padding: 5vh;
+  color: #F0F0F0;
+}
+
+.register-container .register-form-content {
+  margin-top: 5vh;
+  background-color: #181818;
+  padding: 10px;
+}
+
+.register-container .register-form-content .register-form {
+  display: block;
+  margin: 0 auto;
+  max-width: 360px;
+}
+
+.register-container .register-form-content .register-form .ant-form-item {
+ margin-bottom: 10px !important;
+}
+
+.register-container .register-form-content .register-form .ant-form-item .register-input {
+  background-color : #080808;
+  color: grey;
+  height: 40px !important;
+  border: 0px;
+}
+
+.register-container .register-form-content .register-form .register-input:focus {
+  color: grey;
+}
+
+.register-container .register-form-content .register-form .register-button {
+  margin-top: 10px;
+  width: 100%;
+  border: 0;
+  height: 45px;
+  background-color: #3CB371;
+}
+
+
