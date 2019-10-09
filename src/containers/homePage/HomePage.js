@@ -3,7 +3,7 @@ import { bindActionCreators } from "redux";
 import { connect } from "react-redux";
 import { Button } from "antd";
 
-import "./homePage.css"
+//import "./homePage.css"
 
 import { userLogout } from '../../modules/user';
 
